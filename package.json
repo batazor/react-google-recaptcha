@@ -1,5 +1,5 @@
 {
-  "name": "react-google-recaptcha",
+  "name": "react-google-recaptcha-fork",
   "version": "0.11.1",
   "description": "React Component Wrapper for Google reCAPTCHA",
   "main": "lib/recaptcha-wrapper.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dozoisch/react-google-recaptcha.git"
+    "url": "https://github.com/batazor/react-google-recaptcha.git"
   },
   "keywords": [
     "react",
